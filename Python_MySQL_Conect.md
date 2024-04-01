@@ -61,5 +61,5 @@ Isso facilita a criação de aplicações eficientes, permitindo que os desenvol
  PYTHON, Guia para iniciantes, com objetivo de explorar conceitos fundamentais, São Paulo 03, mar, 2021. Disponível, https://pythoniluminado.netlify.app/mysql  .Acesso 23, mar, 2024.<p></p>
 <p></p>
 
-[Publicação Zenodo](https://https://zenodo.org/records/10888698)<p></p>
+[Publicação Zenodo](https://zenodo.org/records/10888698)<p></p>
 **DOI**: 10.5281/zenodo.10888698<p></p>
